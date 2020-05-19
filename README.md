@@ -1,2 +1,2 @@
-# beapdk_EEH_bhsproject
+# beapdk_EEG_bhsproject
 EEG processing project tbd
