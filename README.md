@@ -8,7 +8,7 @@ Abnormal patterns of brain oscillatory activity have been identified previously 
 
 ### Background
 
-Inspired by the [Recurse Centre](https://www.recurse.com/) initiative (formally known as the "hacker school"), Brainhack School was established in 2018 with the mission to train students from a multidisciplinary background to a panoply of reproducible tools for neural data science, using a project-based approach. Following an initial 3-weeks long pilot, a 4th week was added with an intensive bootcamp, so that students could choose what tools to learn more deeply in their projects. As the course became integrated in standard curriculum at different universities, the formula seemed to be working. In order to streamline the different stages of the project, we needed some standard template and milestones to be incorporated in a github-based workflow. The "project template" project (which is also our first BHS meta-project) aims at establishing such a standardized template.
+TO DO
 
 ### Tools 
 
@@ -16,23 +16,26 @@ The "project template" project will rely on the following technologies:
  * [Markdown](https://guides.github.com/features/mastering-markdown/), to structure the text.
  * The [Hugo website framework](https://gohugo.io) which is used by the BHS website. This makes it possible to easily add the markdown project description to the website. 
  * Adding the project to the website relies on github, through pull requests. 
+ * Python
 
 ### Data 
 
-Ultimately, the project template will be used by all BHS participants. Data on the different projects will be aggregareted on the [following page](https://school.brainhackmtl.org/project). This will serve as an additional example gallery in the years to come for future brainhack school students. Many reports from [BHS 2019](https://github.com/mtl-brainhack-school-2019) already used this template. 
+At-rest data from ? lab = to be clarified
 
 ### Deliverables
 
 At the end of this project, we will have:
- - The current markdown document, completed and revised.
- - A gallery of the student projects at Brainhack 2020.
+ - A Jupyter notebook markdown describing thoroughly all the steps of our project 
+ - Python script of main analyses.
+ -OSF project management 
+ -complete repo access to all commits and changes of our projects
  - Instructions on the website about how to submit a pull request to the [BrainHack School website](https://github.com/BrainhackMTL/school) in order to add the project description to the website. 
 
 ## Results 
 
 ### Progress overview
 
-The project was swiftly initiated by P Bellec, based on the existing template created in 2019 by Tristan Glatard and improved by different students. It was really not that hard. Community feedback is expected to lead to rapid further improvements of this first version. 
+The project was swiftly initiated by Beatrice P.DeKoninck, based on the existing template created in 2019 by Tristan Glatard and improved by different students. 
 
 ### Tools I learned during this project
 
