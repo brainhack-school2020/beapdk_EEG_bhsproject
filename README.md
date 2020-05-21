@@ -1,6 +1,6 @@
 ## beapdk_EEG_bhsproject
 
-This project will be conducted for BRainHack school with the collaboration of Penelope PG. 
+This project will be conducted for BrainHack school 2020 with the collaboration of Penelope PG. 
 
 ### Background
 
