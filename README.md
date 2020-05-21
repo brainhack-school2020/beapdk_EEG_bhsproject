@@ -8,7 +8,7 @@ Attention deficit/hyperactivity disorder (ADHD) is one of the most common neurob
 
 ### Project definition 
 
-This project will aim to investigate the presence of subtypes of ADHD from the possible associations between different types of measurements, pairing common behavioral and self-reporting measures to electrophysiological (EEG) data, as well as exploring complementary attributes. To do so, a Similarity Network Fusion (SNF) will be used to integrate these different types of data in a non-linear fashion. 
+This project will aim to investigate the presence of subtypes of ADHD from the possible associations between different types of measurements, pairing common behavioral and self-reporting measures to electrophysiological (EEG) data, as well as exploring complementary attributes. To do so, a Similarity Network Fusion (SNF) will be used to integrate these different types of data in a non-linear fashion, guided by the [tutorial](https://github.com/rmarkello/snfpy) from Ross Markello . 
 
 ### Data 
 
