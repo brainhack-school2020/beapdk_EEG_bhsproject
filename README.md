@@ -1,51 +1,43 @@
-# beapdk_EEG_bhsproject
-EEG processing project tbd
+## beapdk_EEG_bhsproject
 
-## Summary
-
-TBD : This project will focus on exploring links between brain oscillations and ADHD symptoms, using resting-state EEG data. The objective aply and make good use of the tools presented throughout this course.
-
-## Project definition 
+This project will be conducted with the collaboration of Penelope PG. 
 
 ### Background
 
-TO DO
+Attention deficit/hyperactivity disorder (ADHD) is one of the most common neurobehavioral disorders among children and adolescents. Subtype classification of ADHD has not reach consensus whithin the litterature and research on the correlates of ADHD subtypes show incoherent findings.Those subtypes are for the majority based on criteria derived from behavioral and-self-report data and lack of neurophysiological assessment is prominent. 
 
-### Tools 
+### Project definition 
 
-The "project template" project will rely on the following technologies: 
- * [Markdown](https://guides.github.com/features/mastering-markdown/), to structure the text.
- * The [Hugo website framework](https://gohugo.io) which is used by the BHS website. This makes it possible to easily add the markdown project description to the website. 
- * Adding the project to the website relies on github, through pull requests. 
- * Python
+This project will aim to investigate the possible associations between different types of measurements, pairing common behavioral and self-reporting measures to electrophysiological (EEG) data, as well as exploring complementary attributes. To do so, a Similarity Network FUsion (SNF) will be used to integrate these different types of data in a non-linear fashion. 
 
 ### Data 
 
-At-rest data from ? lab = to be clarified
+The sample consisted of 93 college students with an ADHD condition. Different types of measurements are included in this data sample. EEG data recording was performed using a 32-channel electrode cap and consisted of eyes-opened at-rest recording of 5-minute duration. Time-frequency analyses were conducted for each electrode in order to extract amplitude means for each frequency band. Neuropsychological assessment measures included were Conners questionnaire (self-report), WAIS-IV working memory subscale and IVA-II behavioral test.
+
+### Tools 
+
+ * Git and GitHub
+ * Jupyter Notebook
+ * Python : main packages : pandas, SNFpy based on previous [markdown](https://github.com/rmarkello/snfpy)
+
 
 ### Deliverables
 
 At the end of this project, we will have:
  - A Jupyter notebook markdown describing thoroughly all the steps of our project 
- - Python script of main analyses.
- -OSF project management 
- -complete repo access to all commits and changes of our projects
- - Instructions on the website about how to submit a pull request to the [BrainHack School website](https://github.com/BrainhackMTL/school) in order to add the project description to the website. 
+ - Python script of main analyses .
+ - OSF project management 
+ - Complete published repository access to all commits and changes of our projects
+  
 
 ## Results 
+Coming soon !
 
 ### Progress overview
+Coming soon !
 
 ### Tools I learned during this project
- 
-### Results 
+Coming soon !
 
-#### Deliverable 1: report template
 
-#### Deliverable 2: project gallery
- 
-#### Deliverable 3: Instructions 
- 
-## Conclusion and acknowledgement
 
-The BHS team hope you will find this template helpful in documenting your project. Developping this template was a group effort, and benefitted from the feedback and ideas of all BHS students over the years.
