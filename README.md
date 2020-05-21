@@ -19,6 +19,7 @@ The sample consisted of 93 college students with an ADHD condition. Different ty
  * Git and GitHub
  * Jupyter Notebook
  * Python : main packages : pandas,MNE-BIDS, SNFpy based on previous [markdown](https://github.com/rmarkello/snfpy)
+ * Visualization packages via python
 
 
 ### Deliverables
